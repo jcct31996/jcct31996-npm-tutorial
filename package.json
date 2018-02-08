@@ -1,0 +1,12 @@
+{
+  "name": "jcct31996-npm-tutorial",
+  "version": "1.0.0",
+  "description": "NPM tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Justin Chua <jcct31996@hotmail.com>",
+  "license": "MIT"
+}
